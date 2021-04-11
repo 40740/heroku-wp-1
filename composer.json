@@ -37,10 +37,10 @@
             "type": "package",
             "package": {
                 "name": "wordpress/wordpress",
-                "version": "5.2.3",
+                "version": "5.7",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/wordpress/wordpress/archive/5.2.3.zip"
+                    "url": "https://cn.wordpress.org/wordpress-5.7-zh_CN.zip"
                 }
             }
         },
